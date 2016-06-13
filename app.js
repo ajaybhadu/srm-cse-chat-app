@@ -24,7 +24,7 @@ var mongodb = require('mongodb');
 var MongoClient = mongodb.MongoClient;
 
 // Connection URL. This is where your mongodb server is running.
-var url = 'mongodb://localhost:27017/chat';
+var url = 'mongodb://localhost:27017/chatdb';
 
 // Use connect method to connect to the Server
 
